@@ -1,6 +1,6 @@
-##------In Development------
+# ------In Development------
 
-##Event Registration Bot
+## Event Registration Bot
 > This is a Discord bot that connects to Google Sheets and allows users to register for events by entering commands in Discord. The purpose of this project is to practice Python and the development process while creating a convenient event registration system.
 
 ## Motivation
