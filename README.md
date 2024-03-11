@@ -24,4 +24,3 @@ When organizing LARP (劇本殺) events, it is important to manage the number of
 
 Please note that the project is still under development, and this README file will be updated with more information as progress is made.
 
-Feel free to contribute or provide feedback on the project.
